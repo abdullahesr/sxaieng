@@ -1,0 +1,5 @@
+{
+  "name": "SxAI - Popular Match Predictions",
+  "description": "SxAI helps you discover today's most popular football match predictions based on real-time Google Search data, presented with concise analysis and form insights. Sx finds the most played matches of the day for you.",
+  "requestFramePermissions": []
+}
